@@ -18,6 +18,5 @@ A Full-Stack Django web application designed to allow users to manage and overse
 - Django
 - Virtual environment (recommended)
 
-(images/project_preview1.png)
-
+![Project Preview](project_preview1.png)
 
